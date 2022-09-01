@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/msph-creator/static/css/main.cbbf1023.css",
+    "main.js": "/msph-creator/static/js/main.34422b0f.js",
+    "static/js/787.d52829ff.chunk.js": "/msph-creator/static/js/787.d52829ff.chunk.js",
+    "index.html": "/msph-creator/index.html",
+    "main.cbbf1023.css.map": "/msph-creator/static/css/main.cbbf1023.css.map",
+    "main.34422b0f.js.map": "/msph-creator/static/js/main.34422b0f.js.map",
+    "787.d52829ff.chunk.js.map": "/msph-creator/static/js/787.d52829ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbbf1023.css",
+    "static/js/main.34422b0f.js"
+  ]
+}
